@@ -2,6 +2,7 @@
 
 Course Project for Advanced Programming Course (Semester 3- IIITD).
 This game uses Object Oriented Programming concepts to replicate the Tank Stars Game.
+
 VS Friend mode: is a dual player mode.
 - The fuel is seen decreasing as we move the tank left and right.
 - Player health decreases and an impact is shown when the tank is shot.
