@@ -11,3 +11,5 @@ VS Friend mode: is a dual player mode.
 Death Mode
 - Here both tanks can move simultaneously.
 - The tank whose health reaches zero first, dies.
+
+You can view the game flow using the VIDEOS folder.
