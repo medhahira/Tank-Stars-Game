@@ -1,17 +1,35 @@
-# Tank-Stars-Game
+# Tank Stars Game
 
-Course Project for Advanced Programming Course (Semester 3- IIITD).
-This game uses Object Oriented Programming concepts to replicate the Tank Stars Game.
-We have used all the OOPs principles of inheritance, polymorphism, interfaces, and have also included design patterns and JUnit tests while coding the game.
+This repository contains the code for the Tank Stars Game, which is a course project for the Advanced Programming Course at IIITD (Semester 3). The game is developed using Object-Oriented Programming (OOP) concepts, including inheritance, polymorphism, and interfaces. The implementation also incorporates design patterns and includes JUnit tests.
 
-VS Friend mode: is a dual player mode.
-- The fuel is seen decreasing as we move the tank left and right.
-- Player health decreases and an impact is shown when the tank is shot.
-- Player whose player health reaches zero first, loses.
-- The projectile motion of the bomb can be visualized before the bomb is dropped and fuel helps tanks move and aim better.
+## Game Modes
 
-Death Mode
-- Here both tanks can move simultaneously.
-- The tank whose health reaches zero first, dies.
+### VS Friend Mode
 
-You can view the game flow using the VIDEOS folder.
+In this mode, two players can compete against each other.
+
+- The fuel level of each tank decreases as the tank moves left or right.
+- The player's health decreases, and an impact is shown when the tank is shot.
+- The game continues until one player's health reaches zero.
+- Players can visualize the projectile motion of the bomb before dropping it.
+- Fuel helps tanks move and aim more effectively.
+
+### Death Mode
+
+In this mode, both tanks can move simultaneously.
+
+- Each tank has its health that decreases when hit.
+- The game continues until one tank's health reaches zero, resulting in its elimination.
+
+## Usage
+
+To play the Tank Stars Game:
+
+1. Clone this repository to your local machine.
+2. Set up the necessary dependencies and configurations as specified in the installation guide.
+3. Run the game and choose the desired game mode (VS Friend or Death mode).
+4. Play the game by following the on-screen instructions and controls.
+
+## Game Flow
+
+You can watch the gameplay and flow of the game in the [VIDEOS](VIDEOS/) folder.
